@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olivia
 - 👀 I’m interested in making music and hobbyist programming
-- 🌱 I’m currently making discord bots
+- 🌱 I’m currently making discord bots (CURRENTLY REBUILDING MY WEBTOONS BOT. I apologize to the creators waiting to use it, but it will be worth waiting.)
 - 📫 How to reach me tselky#9999 on Discord
 
 <!---
